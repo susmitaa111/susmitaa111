@@ -1,4 +1,4 @@
-## Hi, It's Susmita Kamal👋
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9370DB,100:FF69B4&height=200&section=header&text=Susmita%20Kamal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20Aspiring%20Developer&descAlignY=55&descSize=18" width="100%" />
