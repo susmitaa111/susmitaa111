@@ -14,8 +14,8 @@
 Hi! I'm **Susmita Kamal**, an Information Technology student passionate about programming and technology.
 
 - 🎓 Pursuing a Bachelor in Engineering in Information Technology
-- ☕ Working with Java
-- 🌐 Learning HTML, CSS, JavaScript and PHP
+- ☕ Working with HTML, CSS, javaScript and PHP
+- 🌐 Learning JAVA
 - 🗄️ Working with MySQL
 - 🛠️ Using VS Code, Git, GitHub, XAMPP and Apache
 - 🌱 Exploring open-source development through Hacktoberfest 2026
